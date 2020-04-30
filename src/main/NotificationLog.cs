@@ -15,12 +15,12 @@
 // Modifications copyright(C) 2020 ei8.works/Elmer Bool
 
 using Newtonsoft.Json;
-using org.neurul.Common.Domain.Model;
+using neurUL.Common.Domain.Model;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 
-namespace works.ei8.EventSourcing.Common
+namespace ei8.EventSourcing.Common
 {
     public class NotificationLog
     {

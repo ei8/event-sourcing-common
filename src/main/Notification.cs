@@ -17,7 +17,7 @@
 using SQLite;
 using System;
 
-namespace works.ei8.EventSourcing.Common
+namespace ei8.EventSourcing.Common
 {
     public class Notification : IEquatable<Notification>
     {

@@ -17,9 +17,9 @@
 using System;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
-using org.neurul.Common.Domain.Model;
+using neurUL.Common.Domain.Model;
 
-namespace works.ei8.EventSourcing.Common
+namespace ei8.EventSourcing.Common
 {
     public class NotificationLogId : ValueObject
     {
